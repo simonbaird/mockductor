@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg6445"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="x.svg">
+  <defs
+     id="defs6447" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="500"
+     inkscape:cy="500.00002"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg6445"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1372"
+     inkscape:window-height="778"
+     inkscape:window-x="1219"
+     inkscape:window-y="542"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,200"
+       id="guide6453" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid7357"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="64px"
+       spacingy="64px"
+       originy="20px"
+       originx="20px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata6450">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     sodipodi:nodetypes="sssssccccccccccccc"
+     inkscape:connector-curvature="0"
+     d="M 852.00064,500.0064 C 852.00064,694.4064 694.40448,852 500,852 305.59616,852 148,694.4064 148,500.0064 148,305.5936 305.59616,148 500,148 694.40448,148 852.00064,305.5936 852.00064,500.0064 z M 275.99936,372 l 128,128 -128,128 96,96.0128 128,-128.0128 128,128.0128 L 724,628 595.99936,500.0128 724,372 l -96.00064,-95.9872 -128,127.9872 -128,-127.9872 z"
+     id="path1584" />
+</svg>
